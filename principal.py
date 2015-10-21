@@ -4,3 +4,7 @@
 def somar(x, y):
     """docstring for soamr"""
     return(x + y)
+
+def subtrair(x, y):
+    """docstring for soamr"""
+    return(x - y)
